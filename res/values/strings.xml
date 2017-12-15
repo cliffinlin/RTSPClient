@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">example3</string>
+    <string name="start">Start/Stop Streaming</string>
+    <string name="flash">Flash</string>
+    <string name="camera">Camera</string>
+    <string name="video">Video Settings</string>
+    <string name="save">OK</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="uri">URI</string>
+    <string name="password_hint">Leave empty if not needed</string>
+    <string name="username_hint">Leave empty if not needed</string>
+    <string name="default_bitrate">0 kbps</string>
+    <string name="default_stream">rtsp://192.168.27.72:554/123456.sdp</string>
+    <string name="video_setting1">176x144, 30 fps, 170 Kbps</string>
+    <string name="video_setting2">176x144, 30 fps, 200 Kbps</string>
+    <string name="video_setting3">176x144, 30 fps, 250 Kbps</string>
+    <string name="video_setting4">320x240, 30 fps, 250 Kbps</string>
+    <string name="video_setting5">352x288, 30 fps, 300 Kbps</string>
+    <string name="video_setting6">352x288, 30 fps, 400 Kbps</string>
+    <string name="video_setting7">640x480, 30 fps, 600 Kbps</string>
+
+</resources>
